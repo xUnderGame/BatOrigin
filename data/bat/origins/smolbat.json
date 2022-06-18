@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"bat:aerial_motion",
+		"bat:dayblindness",
+		"bat:echolocation",
+		"bat:elytra",
+		"bat:fragile_frame",
+		"bat:hang",
+		"bat:hitblindness",
+		"bat:nightsight",
+		"bat:nofall",
+		"bat:peekaboo",
+		"bat:smaller",
+		"bat:sounds"
+	],
+	"icon": "minecraft:ghast_tear",
+	"order": 10,
+	"impact": 2,
+	"name": "Bat",
+	"description": "You are a cute, little bat who loves to fly around."
+}

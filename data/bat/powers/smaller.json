@@ -1,0 +1,22 @@
+{
+	"type": "origins:action_on_callback",
+	"entity_action_added": {
+		"type": "origins:execute_command",
+		"command": "execute as @s run function bat:small",
+		"permission_level": 4
+	},
+	"entity_action_removed": {
+		"type": "origins:execute_command",
+		"command": "execute as @s run function bat:normal",
+		"permission_level": 4
+	},
+	"entity_action_respawned": {
+		"type": "origins:execute_command",
+		"command": "execute as @s run function bat:small",
+		"permission_level": 4
+	},
+	"execute_chosen_when_orb": true,
+	"name": "Smaller",
+	"description": "You are a bat, which means that you are 0.45 blocks tall, aww.",
+	"hidden": false
+}

@@ -1,0 +1,6 @@
+{
+	"type": "origins:night_vision",
+	"strength": 0.4,
+	"name": "Night Sight",
+	"description": "You can see more clearly in the dark."
+}

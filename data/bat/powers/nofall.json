@@ -1,0 +1,18 @@
+{
+   "type":"origins:invulnerability",
+   "name":"No Fall or Kinetic Damage",
+   "description":"Your body is tough and can't take any kinetic or fall damage.",
+   "damage_condition":{
+      "type":"origins:or",
+      "conditions":[
+         {
+            "type":"origins:name",
+            "name":"fall"
+         },
+         {
+            "type":"origins:name",
+            "name":"flyIntoWall"
+         }
+      ]
+   }
+}

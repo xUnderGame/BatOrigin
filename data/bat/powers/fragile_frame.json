@@ -1,0 +1,12 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.max_health",
+    "value": -6.5,
+    "operation": "addition"
+  },
+  "hidden": false,
+  "name": "Fragile Frame",
+  "description": "Due to being smaller you have less health.",
+  "tick_rate": 2
+}

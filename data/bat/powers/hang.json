@@ -1,0 +1,26 @@
+{
+    "type": "origins:climbing",
+    "hold_condition": {
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:block_collision",
+                "offset_x": 0.01,
+                "offset_z": 0.01,
+                "offset_y": 0
+            },
+            {
+                "type": "origins:block_collision",
+                "offset_x": -0.01,
+                "offset_z": -0.01,
+                "offset_y": 0
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:collided_horizontally"
+    },
+    "hidden": false,
+    "name":"Bat hang",
+    "description":"You can 'hang' on blocks like a bat does"
+}
