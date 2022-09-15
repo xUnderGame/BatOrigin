@@ -1,5 +1,5 @@
 # The Bat
-Adds the custom Bat Origin to Minecraft.
+Adds the custom Bat Origin to Minecraft. This origin has the elytra movement power used as a base by a creator that I do not remember (This was made a really long time ago), and the power was later edited to fit the Origin.
 
 **Intended Minecraft Version**: 1.18.
 
